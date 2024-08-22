@@ -35,7 +35,7 @@ Setup
 Clone the Repository:
 sh
 Copy code
-git clone https://github.com/your-repo/news-dashboard-app.git
+git clone https://github.com/devireddy1818/TechVibeSwift-
 Open the Project: Open the project in Xcode.
 Update API Keys:
 Open Constants.swift.
