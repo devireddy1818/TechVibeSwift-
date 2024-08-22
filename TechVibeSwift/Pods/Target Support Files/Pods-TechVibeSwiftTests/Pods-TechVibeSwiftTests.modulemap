@@ -1,0 +1,6 @@
+framework module Pods_TechVibeSwiftTests {
+  umbrella header "Pods-TechVibeSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

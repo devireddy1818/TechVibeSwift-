@@ -1,0 +1,6 @@
+framework module Pods_TechVibeSwift {
+  umbrella header "Pods-TechVibeSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
